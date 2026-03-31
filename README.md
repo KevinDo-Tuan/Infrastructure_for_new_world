@@ -7,15 +7,15 @@
 
 ## Table of Contents
  
-1. [Abstract]
-2. [Vision]
-3. [Understanding Blockchain Technology]
-4. [The Automated Future and Its Inherent Threats]
-   - [Dependency]
-   - [Security]
-   - [Transparency]
-5. [Current Limitations and Evolution]
-6. [Conclusions]]
+1. Abstract
+2. Vision
+3. Understanding Blockchain Technology
+4. The Automated Future and Its Inherent Threats
+   - Dependency
+   - Security
+   - Transparency
+5. Current Limitations and Evolution
+6. Conclusions
  
 ---
 
